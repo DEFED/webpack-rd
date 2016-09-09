@@ -1,0 +1,23 @@
+{
+    "prompts": {
+        "name": {
+            "type": "string",
+            "required": true,
+            "message": "项目英文名称"
+        },
+        "text": {
+            "type": "string",
+            "required": true,
+            "message": "项目中文名称"
+        },
+        "description": {
+            "type": "string",
+            "message": "项目描述"
+        },
+        "author": {
+            "type": "string",
+            "message": "Author"
+        }
+    },
+    "completeMessage": "To get started:\n\n  cd {{destDirName}}\n  npm install\n  npm run dev\n\nDocumentation can be found at https://vuejs-templates.github.io/webpack"
+}

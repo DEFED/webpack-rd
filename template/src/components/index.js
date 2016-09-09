@@ -1,0 +1,7 @@
+export {default as AppHead} from './app-head'
+export {default as AppBody} from './app-body'
+export {default as AppFooter} from './app-footer'
+export {default as AppNav} from './app-nav'
+export {default as Content1} from './content1'
+export {default as Content2} from './content2'
+export {default as ContentIndex} from './content-index'

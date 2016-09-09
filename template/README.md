@@ -1,6 +1,7 @@
-# webpack-rd
+# {{ name }}
 
-> vue template for rd
+> {{ text }}  
+> {{ description }}  
 
 ## Build Setup
 
